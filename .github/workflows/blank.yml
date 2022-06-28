@@ -27,3 +27,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           which ruby
+          ruby -v
